@@ -1,9 +1,10 @@
 # Web-1
 
 This reposiotry was built to run through a step by step process to understand the Github workflow we utlize at LearningFuze. We will be using the following tools:
-- Git using Terminal (Mac) or GitBash (Windows). [Download](http://git-scm.com/downloads)
-- (Github.com)[http://github.com]
-- SublimeText 3 (Text Editor) (download)[http://www.sublimetext.com/3]
+- Git using Terminal (Mac) or GitBash (Windows) - [Download](http://git-scm.com/downloads)
+- Github.com
+- SublimeText 3 Text Editor - [Download](http://www.sublimetext.com/3)
+
 The workflow outlined in the readme below will be utilized for every assignment/task/project for the course so understanding how and why is super important. If you have any questions please feel free to email instructors@learningfuze.com
 
 
@@ -34,7 +35,7 @@ The workflow outlined in the readme below will be utilized for every assignment/
 - Hit Enter
 
 **PC**
-- Navigate to the folder
+- Open windows explorer to the sandbox folder
 - Right click and select "Git Bash Here" shown in the image below
 ![Shortcut Git Bash](https://lostechies.com/jasonmeridth/files/2011/03/image_thumb_70716233.png)
 

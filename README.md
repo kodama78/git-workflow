@@ -1,1 +1,73 @@
-# web-1
+# Web-1
+
+This reposiotry was built to run through a step by step process to understand the Github workflow we utlize at LearningFuze. We will be using the following tools:
+	- Git using Terminal (Mac) or GitBash (Windows). [Download](http://git-scm.com/downloads)
+	- (Github.com)[http://github.com]
+	- SublimeText 3 (Text Editor) (download)[http://www.sublimetext.com/3]
+The workflow outlined in the readme below will be utilized for every assignment/task/project for the course so understanding how and why is super important. If you have any questions please feel free to email instructors@learningfuze.com
+
+
+## Assumptions we are making
+- You have Git installed on your system, [how do I know if git is installed?](http://lmgtfy.com/?q=how+do+i+know+if+git+is+installed+on+my+computer)
+- You have read these Guides
+	- [Why Git & Github](https://docs.google.com/document/d/1Kyrj_xEXGja4R_-syhBuoYLo53urUIL_YDNEi56Qi9w/pub)
+	- [First Github Project](https://guides.github.com/activities/hello-world/)
+	- [Understanding Github Flow](https://guides.github.com/introduction/flow/)
+	- [Forking Projects](https://guides.github.com/activities/forking/)
+
+## Getting the files locally
+
+### Step 1 - Forking the Repo
+- Fork this repo by clicking the "Fork" button located on the top right of this page
+
+### Step 2 - Opening Command Line & navigating to your sandbox
+- Open up command line tool Mac(Terminal), PC (Git Bash) in your sandbox folder. [Where is my sandbox Folder?](https://docs.google.com/document/d/1GYqDtY12-RgzrbbHzY7kqxpqP_y_X6c5sNKH9NLqMPM/pub)
+	- Mac
+		- Press the command key and space bar
+			- You should see the spotlight search appear
+			- type in Terminal and hit enter
+		- type in `cd ` (which stands for change directory) then drag your folder into the terminal window
+		- For a computer user of "test" the line would look like this
+			- `cd /Users/test/Desktop/sandbox`
+			- *You should see "test" replaced with your computer username*
+		- Hit Enter
+	- PC
+		- Navigate to the folder
+		- Right click and select "Git Bash Here" shown in the image below
+		~[Shortcut Git Bash](https://lostechies.com/jasonmeridth/files/2011/03/image_thumb_70716233.png)
+
+### Step 3 - Cloning the repo
+- Type in the following into your command line `git clone https://github.com/ej020586/web-1.git` and hit enter
+	- *The url after the word "clone" can be found in the right hand side panel of this page under the Settings link. You can click the button to the right of the url that will automatically copy this url for you*
+- Then type `cd web-1` and hit enter
+
+#### Congratulations you have cloned your first Github Repository
+
+## Editing your files
+
+### Step 1 - Opening your web-1 directory
+
+- Start SublimeText Editor
+- Open web-1 directory by clicking on File->Open
+	- Select the web-1 folder under the sandbox folder on your desktop
+	~[Image](https://lostechies.com/jasonmeridth/files/2011/03/image_thumb_70716233.png)
+
+### Step 2 - Add basic HTML
+- Open the index.html file by clicking on the file name on the left hand side in SublimeText
+- Add html, head, body tags to the index.html file
+- Add a h1 tag with the text "Hello World" inside the tag
+- Add a p tag with the text "This is my first web page"
+- Save the file by selecting File->Save
+
+### Step 3 - View in the browser
+- Navigate to the web-1 folder
+- Right click on the index.html file and select open with Chrome
+~[Web Page](https://lostechies.com/jasonmeridth/files/2011/03/image_thumb_70716233.png)
+
+#### You have done it! The basics of creating your first web page
+
+# Now What
+You may think that we are done there is nothing left to do because the task is complete but my question is. How does your Manager or Instructor know that you have completed the task Outlined for you? The answer is they don't. You only have the files locally and there for everyone else is left in the dark. We don't know if you have completed the task, we don't know if you have had any issues with the task. We have no way.
+
+### How do we address this?
+We address the issue by allowing others to see our work through a centeralized tool (Github.com)

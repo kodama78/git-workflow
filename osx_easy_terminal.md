@@ -10,6 +10,6 @@
 
 ##To Use: 
 
--Go to a folder in your finder
--Right click on the folder and look for *"Services"* at the bottom (sometimes it glitches and you will need to do this twice)
--Select the option *"New Terminal Tab at Folder"*
+- Go to a folder in your finder
+- Right click on the folder and look for *"Services"* at the bottom (sometimes it glitches and you will need to do this twice)
+- Select the option *"New Terminal Tab at Folder"*

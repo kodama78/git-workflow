@@ -90,7 +90,7 @@ The quick answer is by doing these steps within your command line tool
 
 *If you get an error like this `fatal: Not a git repository (or any of the parent directories): .git` you are probably not in the directory of the git repo. Make sure you changed directories outlined in the last bullet of* **Step 3 - Cloning the repo** 
 
-### What do these lines mean?
+### What do these steps above mean?
 
 #### Step 1 - git add .
 - `git add` is the command we use to stage files for a commit. This tells the `git commit` command which files we are saving together

@@ -20,7 +20,7 @@ The workflow outlined in the readme below will be utilized for every assignment/
 
 ### Step 1 - Forking the Repo
 - Fork this repo by clicking the "Fork" button located on the top right of this page
-	![Fork Button](https://lostechies.com/jasonmeridth/files/2011/03/image_thumb_70716233.png)
+	![Fork Button](https://github.com/ej020586/web-1/blob/assets/assets/fork.jpg?raw=true)
 
 ### Step 2 - Opening Command Line & navigating to your sandbox
 - Open up command line tool Mac(Terminal), PC (Git Bash) in your sandbox folder. [Where is my sandbox Folder?](https://docs.google.com/document/d/1GYqDtY12-RgzrbbHzY7kqxpqP_y_X6c5sNKH9NLqMPM/pub)
@@ -43,6 +43,7 @@ The workflow outlined in the readme below will be utilized for every assignment/
 ### Step 3 - Cloning the repo
 - Type in the following into your command line 
 	- `git clone https://github.com/ej020586/web-1.git` and hit enter
+		- The **clone** command tells git to copy the contents of the master branch
 		- *The url after the word "clone" can be found in the right hand side panel of this page under the Settings link. You can click the button to the right of the url that will automatically copy this url for you*
 - Then type `cd web-1` and hit enter
 
@@ -55,7 +56,7 @@ The workflow outlined in the readme below will be utilized for every assignment/
 - Start SublimeText Editor
 - Open web-1 directory by clicking on File->Open
 	- Select the web-1 folder under the sandbox folder on your desktop
-	![Image](https://lostechies.com/jasonmeridth/files/2011/03/image_thumb_70716233.png)
+	![Open Image](https://github.com/ej020586/web-1/blob/assets/assets/open.jpg?raw=true)
 
 ### Step 2 - Add basic HTML
 - Open the index.html file by clicking on the file name on the left hand side in SublimeText
@@ -67,7 +68,7 @@ The workflow outlined in the readme below will be utilized for every assignment/
 ### Step 3 - View in the browser
 - Navigate to the web-1 folder
 - Right click on the index.html file and select open with Chrome
-![Web Page](https://lostechies.com/jasonmeridth/files/2011/03/image_thumb_70716233.png)
+![Web Page](https://github.com/ej020586/web-1/blob/assets/assets/web-page.jpg?raw=true)
 
 #### You have done it! The basics of creating your first web page
 

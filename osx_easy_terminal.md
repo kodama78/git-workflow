@@ -2,11 +2,11 @@
 
 ##To Configure (Only need to do this once)
 
--Open *System Preferences*
--Open *Keyboard*
--Open *Services*
--Check *"New Terminal Tab at Folder"*
--Close *System Preferences*
+- Open *System Preferences*
+- Open *Keyboard*
+- Open *Services*
+- Check *"New Terminal Tab at Folder"*
+- Close *System Preferences*
 
 ##To Use: 
 

@@ -88,7 +88,7 @@ The quick answer is by doing these steps within your command line tool
 2. `git commit -m "message describing what i'm commiting"` - Commit the files that were added (staged)
 3. `git push origin master` - Push these files to a remote location (origin master)
 
-*If you get an error like this `fatal: Not a git repository (or any of the parent directories): .git` you are probably not in the directory of the git repo. Make sure you changed directories outlined in the last bullet of **Step 3 - Cloning the repo**
+*If you get an error like this `fatal: Not a git repository (or any of the parent directories): .git` you are probably not in the directory of the git repo. Make sure you changed directories outlined in the last bullet of **Step 3 - Cloning the repo** *
 
 ### What do these lines mean?
 

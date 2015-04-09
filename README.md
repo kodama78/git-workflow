@@ -8,7 +8,7 @@ This reposiotry (**repo**) was built to run through a step by step process to un
 The workflow outlined in the readme below will be utilized for every assignment/task/project for the course so understanding how and why is super important. If you have any questions please feel free to email instructors@learningfuze.com
 
 
-## Assumptions we are making
+### Assumptions we are making
 - You have Git installed on your system. <a href="http://lmgtfy.com/?q=how+do+i+know+if+git+is+installed+on+my+computer" target="_blank">How do I know if git is installed?</a>
 - You have read these Guides
 	- [Why Git & Github](https://docs.google.com/document/d/1Kyrj_xEXGja4R_-syhBuoYLo53urUIL_YDNEi56Qi9w/pub)
@@ -16,7 +16,7 @@ The workflow outlined in the readme below will be utilized for every assignment/
 	- [Understanding Github Flow](https://guides.github.com/introduction/flow/)
 	- [Forking Projects](https://guides.github.com/activities/forking/)
 
-## Getting the files locally
+## Saving the files locally
 
 ### Step 1 - Forking the Repo
 - Fork this repo by clicking the "Fork" button located on the top right of this page
@@ -43,8 +43,10 @@ The workflow outlined in the readme below will be utilized for every assignment/
 ### Step 3 - Cloning the repo
 - Type in the following into your command line 
 	- `git clone https://github.com/ej020586/web-1.git` and hit enter
-		- The **clone** command tells git to copy the contents of the master branch
-		- *The url after the word "clone" can be found in the right hand side panel of this page under the Settings link. You can click the button to the right of the url that will automatically copy this url for you*
+		- The **clone** command tells git to save the contents of the master branch onto your computer within the current directory.
+		- **Note**
+			- Using the command above will automatically create a directory with the same name as the Repo. In this example **web-1**
+			- The url after the word **clone** can be found in the right hand side panel of this page under the Settings link. You can click the button to the right of the url that will automatically copy this url for you
 - Then type `cd web-1` and hit enter
 
 #### Congratulations you have cloned your first Github Repository
@@ -85,6 +87,8 @@ The quick answer is by doing these steps within your command line tool
 1. `git add .` - Add all files
 2. `git commit -m "message describing what i'm commiting"` - Commit the files that were added (staged)
 3. `git push origin master` - Push these files to a remote location (origin master)
+
+*If you get an error like this `fatal: Not a git repository (or any of the parent directories): .git` you are probably not in the directory of the git repo. Make sure you 
 
 ### What do these lines mean?
 

@@ -3,13 +3,13 @@
 This reposiotry (**repo**) was built to run through a step by step process to understand the Github task workflow we utlize at [LearningFuze](http://learningfuze.com). We will be using the following tools:
 - Git using Terminal (Mac) or GitBash (Windows) - [Download](http://git-scm.com/downloads)
 - Github.com
-- SublimeText 3 Text Editor - [Download](http://www.sublimetext.com/3)
+- SublimeText 3 Text Editor - <a href="http://www.sublimetext.com/3" target="_blank">Download</a>
 
 The workflow outlined in the readme below will be utilized for every assignment/task/project for the course so understanding how and why is super important. If you have any questions please feel free to email instructors@learningfuze.com
 
 
 ## Assumptions we are making
-- You have Git installed on your system, [how do I know if git is installed?](http://lmgtfy.com/?q=how+do+i+know+if+git+is+installed+on+my+computer)
+- You have Git installed on your system. <a href="http://lmgtfy.com/?q=how+do+i+know+if+git+is+installed+on+my+computer" target="_blank">How do I know if git is installed?</a>
 - You have read these Guides
 	- [Why Git & Github](https://docs.google.com/document/d/1Kyrj_xEXGja4R_-syhBuoYLo53urUIL_YDNEi56Qi9w/pub)
 	- [First Github Project](https://guides.github.com/activities/hello-world/)
@@ -23,7 +23,7 @@ The workflow outlined in the readme below will be utilized for every assignment/
 	![Fork Button](https://github.com/ej020586/web-1/blob/assets/assets/fork.jpg?raw=true)
 
 ### Step 2 - Opening Command Line & navigating to your sandbox
-- Open up command line tool Mac(Terminal), PC (Git Bash) in your sandbox folder. [Where is my sandbox Folder?](https://docs.google.com/document/d/1GYqDtY12-RgzrbbHzY7kqxpqP_y_X6c5sNKH9NLqMPM/pub)
+- Open up command line tool Mac(Terminal), PC (Git Bash) in your sandbox folder. <a href="https://docs.google.com/document/d/1GYqDtY12-RgzrbbHzY7kqxpqP_y_X6c5sNKH9NLqMPM/pub" target="_blank">Where is my sandbox Folder?</a>
 	
 	**Mac**
 	- Press the command key and space bar
@@ -103,7 +103,7 @@ The quick answer is by doing these steps within your command line tool
 - **origin** describes the remote location. More about git remotes [here](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 - **master** describes the branch you are pushing too. More about branching later but for now pushing to master will be the default
 
-##### [Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+##### <a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf" target="_blank">Git Cheat Sheet</a>
 
 ### After pushing your local branch you will see the changes on Github under your repository
 

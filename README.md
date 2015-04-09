@@ -89,19 +89,19 @@ The quick answer is by doing these steps within your command line tool
 ### What do these lines mean?
 
 #### Step 1 - git add .
-	- `git add` is the command we use to stage files for a commit. This tells the `git commit` command which files we are saving together
-	- The **.** part of the command is used to tell git we want to add **all** files that have been changed or modified.
+- `git add` is the command we use to stage files for a commit. This tells the `git commit` command which files we are saving together
+- The **.** part of the command is used to tell git we want to add **all** files that have been changed or modified.
 
 #### Step 2 - git commit -m "message describing what i'm commiting"
-	- `git commit` is the command we use to commit that staged files to our local repo
-	- **-m** tells our commit command we want to add a message
-	- The text that is surounded by quotes is the message we want to add with our commit.
-	- *A good commit message describe the functionality that was changed* The files that were added/edited/deleted will be easy to find within the commit
+- `git commit` is the command we use to commit that staged files to our local repo
+- **-m** tells our commit command we want to add a message
+- The text that is surounded by quotes is the message we want to add with our commit.
+- *A good commit message describe the functionality that was changed* The files that were added/edited/deleted will be easy to find within the commit
 
 #### Step 3 - git push origin master
-	- `git push` is the command that takes our local repo and pushes the commits to a remote location
-	- **origin** describes the remote location. More about git remotes [here](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
-	- **master** describes the branch you are pushing too. More about branching later but for now pushing to master will be the default
+- `git push` is the command that takes our local repo and pushes the commits to a remote location
+- **origin** describes the remote location. More about git remotes [here](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+- **master** describes the branch you are pushing too. More about branching later but for now pushing to master will be the default
 
 ##### [Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 

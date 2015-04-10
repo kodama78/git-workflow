@@ -1,6 +1,6 @@
 # Web-1
 
-This repositry (**repo**) was built to run through a step by step process to understand the Github task workflow we utlize at [LearningFuze](http://learningfuze.com). We will be using the following tools:
+This reposiotry (**repo**) was built to run through a step by step process to understand the Github task workflow we utlize at [LearningFuze](http://learningfuze.com). We will be using the following tools:
 - Git using Terminal (Mac) or GitBash (Windows) - [Download](http://git-scm.com/downloads)
 - Github.com
 - SublimeText 3 Text Editor - <a href="http://www.sublimetext.com/3" target="_blank">Download</a>
@@ -82,10 +82,10 @@ We address the issue by allowing others to see our work through a centeralized R
 
 ### How do we get our files to Github?
 
-The quick answer is by doing these steps within your command line tool
+The quick answer is by doing these steps in the command line
 
-1. `git add .` - Add all files
-2. `git commit -m "message describing what i'm commiting"` - Commit the files that were added (staged)
+1. `git add .` - Add all files for staging
+2. `git commit -m "Text describing what i'm commiting"` - Commit the files that were added (staged)
 3. `git push origin master` - Push these files to a remote location (origin master)
 
 *If you get an error like this `fatal: Not a git repository (or any of the parent directories): .git` you are probably not in the directory of the git repo. Make sure you changed directories outlined in the last bullet of* **Step 3 - Cloning the repo** 
@@ -95,12 +95,16 @@ The quick answer is by doing these steps within your command line tool
 #### Step 1 - git add .
 - `git add` is the command we use to stage files for a commit. This tells the `git commit` command which files we are saving together
 - The **.** part of the command is used to tell git we want to add **all** files that have been changed or modified.
+	- Other ways to add
+		- `git add *` - same as `git add .`
+		- `git add index.html` - only stages **index.html** for the next time you commit. This command will ignore all other changes made to other files.
 
 #### Step 2 - git commit -m "message describing what i'm commiting"
-- `git commit` is the command we use to commit that staged files to our local repo
+- `git commit` is the command we use to commit the staged files to our local repo
 - **-m** tells our commit command we want to add a message
 - The text that is surounded by quotes is the message we want to add with our commit.
-- *A good commit message describe the functionality that was changed* The files that were added/edited/deleted will be easy to find within the commit
+	- *A good commit message describes the functionality that was changed*. 
+	- The files that were added/edited/deleted will be easy to find within the commit so no need to add the file names into the message
 
 #### Step 3 - git push origin master
 - `git push` is the command that takes our local repo and pushes the commits to a remote location

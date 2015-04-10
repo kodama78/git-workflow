@@ -28,15 +28,15 @@ The workflow outlined in the readme below will be utilized for every assignment/
 	**Mac EASY**
 	- If you have not done so already, enable [Easy osx terminal window opening](https://github.com/ej020586/web-1/blob/osx_easy_terminal/osx_easy_terminal.md)
 	- Go to a folder in your finder 
-		- ![Folder](https://github.com/ej020586/web-1/blob/osx_easy_terminal/assets/folder.png)
-	- Right click on the folder and look for *"Services"* at the bottom (sometimes it glitches and you will need to do this twice) 
-		- ![Folder](https://github.com/ej020586/web-1/blob/osx_easy_terminal/assets/services.png)
+		- ![Folder](https://github.com/ej020586/web-1/blob/osx_easy_terminal/assets/folder.png) - - 
+	- Right click on the folder and look for *"Services"* at the bottom (sometimes it glitches and you will need to do this twice)
+		- ![Folder](https://github.com/ej020586/web-1/blob/osx_easy_terminal/assets/services.png) - - 
 	- Select the option *"New Terminal Tab at Folder"* 
-		- ![New Terminal At Folder](https://github.com/ej020586/web-1/blob/osx_easy_terminal/assets/new_terminal_tab.png)
+		- ![New Terminal At Folder](https://github.com/ej020586/web-1/blob/osx_easy_terminal/assets/new_terminal_tab.png) - - 
+	**Mac not-so-easy**
 	- Press the command key and space bar
 		- You should see the spotlight search appear
 		- type in Terminal and hit enter
-	**Mac not-so-easy**
 	- Type in `cd ` (which stands for change directory) then drag your folder into the terminal window
 	- For a computer user of "test" the line would look like this
 		- `cd /Users/test/Desktop/sandbox`

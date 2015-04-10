@@ -23,9 +23,18 @@ The workflow outlined in the readme below will be utilized for every assignment/
 	![Fork Button](https://github.com/ej020586/web-1/blob/assets/assets/fork.jpg?raw=true)
 
 ### Step 2 - Opening Command Line & navigating to your sandbox
-- Open up command line tool Mac(Terminal), PC (Git Bash) in your sandbox folder. <a href="https://docs.google.com/document/d/1GYqDtY12-RgzrbbHzY7kqxpqP_y_X6c5sNKH9NLqMPM/pub" target="_blank">Where is my sandbox Folder?</a>
-	
-	**Mac**
+- Open up command line tool Mac(Terminal), PC (Git Bash) in your sandbox folder. <a href="https://docs.google.com/document/d/1GYqDtY12-RgzrbbHzY7kqxpqP_y_X6c5sNKH9NLqMPM/pub" target="_blank">Where is my sandbox Folder?</a>	
+
+	**Mac EASY**
+	- If you have not done so already, enable [Easy osx terminal window opening](https://github.com/ej020586/web-1/blob/osx_easy_terminal/osx_easy_terminal.md)
+	- Go to a folder in your finder 
+		- ![Folder](https://github.com/ej020586/web-1/blob/osx_easy_terminal/assets/folder.png) 
+	- Right click on the folder and look for *"Services"* at the bottom (sometimes it glitches and you will need to do this twice)
+		- ![Folder](https://github.com/ej020586/web-1/blob/osx_easy_terminal/assets/services.png) 
+	- Select the option *"New Terminal Tab at Folder"* 
+		- ![New Terminal At Folder](https://github.com/ej020586/web-1/blob/osx_easy_terminal/assets/new_terminal_tab.png)  
+
+	**Mac not-so-easy**
 	- Press the command key and space bar
 		- You should see the spotlight search appear
 		- type in Terminal and hit enter

@@ -21,6 +21,7 @@ The workflow outlined in the readme below will be utilized for every assignment/
 ### Step 1 - Forking the Repo
 - Fork this repo by clicking the "Fork" button located on the top right of this page
 	![Fork Button](https://github.com/ej020586/web-1/blob/assets/assets/fork.jpg?raw=true)
+    ![opt Fork Button](images/fork.jpg)
 
 ### Step 2 - Opening Command Line & navigating to your sandbox
 - Open up command line tool Mac(Terminal), PC (Git Bash) in your sandbox folder. <a href="https://docs.google.com/document/d/1GYqDtY12-RgzrbbHzY7kqxpqP_y_X6c5sNKH9NLqMPM/pub" target="_blank">Where is my sandbox Folder?</a>	
@@ -46,8 +47,9 @@ The workflow outlined in the readme below will be utilized for every assignment/
 
 	**PC**
 	- Open windows explorer to the sandbox folder
-	- Right click and select "Git Bash Here" shown in the image below
+	- Right click and select "Git Bash Here" or "Git Bash" shown in the images below
 	![Shortcut Git Bash](https://lostechies.com/jasonmeridth/files/2011/03/image_thumb_70716233.png)
+    ![opt Shortcut Git Bash](images/windows-git-bash.jpg)
 
 ### Step 3 - Cloning the repo
 - Type in the following into your command line 
@@ -57,6 +59,7 @@ The workflow outlined in the readme below will be utilized for every assignment/
 			- Using the command above will automatically create a directory with the same name as the Repo. In this example **web-1**
 			- The url after the word **clone** can be found in the right hand side panel of this page under the Settings link. You can click the button to the right of the url that will automatically copy this url for you
 - Then type `cd web-1` and hit enter
+- Leave your console window open, we will be using it again shortly.
 
 #### Congratulations you have cloned your first Github Repository
 
@@ -121,6 +124,8 @@ The quick answer is by doing these steps in the command line
 - **master** describes the branch you are pushing too. More about branching later but for now pushing to master will be the default
 
 ##### <a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf" target="_blank">Git Cheat Sheet</a>
+##### <a href="http://rogerdudler.github.io/git-guide/" target="_blank">A simpe guide to gitHUb</a>
+##### <a href="http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf">Download simple 'git cheat sheet'</a>
 
 ### After pushing your local branch you will see the changes on Github under your repository
 

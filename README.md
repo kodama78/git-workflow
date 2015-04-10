@@ -20,8 +20,7 @@ The workflow outlined in the readme below will be utilized for every assignment/
 
 ### Step 1 - Forking the Repo
 - Fork this repo by clicking the "Fork" button located on the top right of this page
-	![Fork Button](https://github.com/ej020586/web-1/blob/assets/assets/fork.jpg?raw=true)
-    ![opt Fork Button](images/fork.jpg)
+    ![opt Fork Button](https://github.com/ej020586/web-1/blob/assets/assets/fork-circle.jpg?raw=true)
 
 ### Step 2 - Opening Command Line & navigating to your sandbox
 - Open up command line tool Mac(Terminal), PC (Git Bash) in your sandbox folder. <a href="https://docs.google.com/document/d/1GYqDtY12-RgzrbbHzY7kqxpqP_y_X6c5sNKH9NLqMPM/pub" target="_blank">Where is my sandbox Folder?</a>	
@@ -47,9 +46,8 @@ The workflow outlined in the readme below will be utilized for every assignment/
 
 	**PC**
 	- Open windows explorer to the sandbox folder
-	- Right click and select "Git Bash Here" or "Git Bash" shown in the images below
-	![Shortcut Git Bash](https://lostechies.com/jasonmeridth/files/2011/03/image_thumb_70716233.png)
-    ![opt Shortcut Git Bash](images/windows-git-bash.jpg)
+	- Right click and select "Git Bash" as shown in the image below
+    ![opt Shortcut Git Bash](https://github.com/ej020586/web-1/blob/assets/assets/windows-git-bash-alt.jpg?raw=true)
 
 ### Step 3 - Cloning the repo
 - Type in the following into your command line 

@@ -123,7 +123,7 @@ The quick answer is by doing these steps in the command line
 
 ##### <a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf" target="_blank">Git Cheat Sheet</a>
 ##### <a href="http://rogerdudler.github.io/git-guide/" target="_blank">A simpe guide to gitHUb</a>
-##### <a href="http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf">Download simple 'git cheat sheet'</a>
+##### <a href="http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf" target="_blank">Download simple 'git cheat sheet'</a>
 
 ### After pushing your local branch you will see the changes on Github under your repository
 

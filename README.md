@@ -119,9 +119,10 @@ The quick answer is by doing these steps in the command line
 - **origin** describes the remote location. More about git remotes [here](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 - **master** describes the branch you are pushing too. More about branching later but for now pushing to master will be the default
 
-##### <a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf" target="_blank">Git Cheat Sheet</a>
-##### <a href="http://rogerdudler.github.io/git-guide/" target="_blank">A simpe guide to gitHUb</a>
-##### <a href="http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf" target="_blank">Download simple 'git cheat sheet'</a>
+### Git Resources
+- <a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf" target="_blank">Git Cheat Sheet</a>
+- <a href="http://rogerdudler.github.io/git-guide/" target="_blank">A simpe guide to gitHUb</a>
+- <a href="http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf" target="_blank">Download simple 'git cheat sheet'</a>
 
 ### After pushing your local branch you will see the changes on Github under your repository
 

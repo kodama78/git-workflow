@@ -49,7 +49,8 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 
 ### Step 3 - Cloning the repo
 1. Type in the following into your command line 
-	- `git clone https://github.com/Learning-Fuze/git-workflow.git` and hit enter
+	- `git clone https://github.com/your-user-name/git-workflow.git` and hit enter
+		- **Note** The portion of the url that reads **your-user-name here** needs to change
 		- The **clone** command tells git to save the contents of the master branch onto your computer within the current directory.
 		- **Note**
 			- Using the command above will automatically create a directory with the same name as the Repo. In this example **git-workflow**
@@ -93,10 +94,9 @@ We address the issue by allowing others to see our work through a centeralized R
 The quick answer is by doing these steps in the command line
 
 1. `git add .` - Add all files for staging
+*If you get an error like this `fatal: Not a git repository (or any of the parent directories): .git` you are probably not in the directory of the git repo. Make sure you changed directories outlined in the last bullet of* **Step 3 - Cloning the repo** 
 2. `git commit -m "Text describing what i'm commiting"` - Commit the files that were added (staged)
 3. `git push origin master` - Push these files to a remote location (origin master)
-
-*If you get an error like this `fatal: Not a git repository (or any of the parent directories): .git` you are probably not in the directory of the git repo. Make sure you changed directories outlined in the last bullet of* **Step 3 - Cloning the repo** 
 
 ### What do these steps above mean?
 

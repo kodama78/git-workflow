@@ -25,27 +25,29 @@ The workflow outlined in the readme below will be utilized for every assignment/
 ### Step 2 - Opening Command Line & navigating to your sandbox
 - Open up command line tool Mac(Terminal), PC (Git Bash) in your sandbox folder. <a href="https://docs.google.com/document/d/1GYqDtY12-RgzrbbHzY7kqxpqP_y_X6c5sNKH9NLqMPM/pub" target="_blank">Where is my sandbox Folder?</a>	
 
-	**Mac EASY**
-	- If you have not done so already, enable [Easy osx terminal window opening](https://github.com/ej020586/web-1/blob/osx_easy_terminal/osx_easy_terminal.md)
-	- Go to a folder in your finder 
-		- ![Folder](https://github.com/ej020586/web-1/blob/assets/assets/sandbox-finder.jpg?raw=true) 
-	- Right click on the folder and look for **Services** at the bottom. Then select the option **New Terminal Tab at Folder**
-		- ![Folder](https://github.com/ej020586/web-1/blob/assets/assets/new-terminal-tab-finder.jpg?raw=true)
+#### Mac
 
-	**Mac not-so-easy**
-	- Press the command key and space bar
-		- You should see the spotlight search appear
-		- type in Terminal and hit enter
-	- Type in `cd ` (which stands for change directory) then drag your folder into the terminal window
-	- For a computer user of "test" the line would look like this
-		- `cd /Users/test/Desktop/sandbox`
-		- *You should see "test" replaced with your computer username*
-	- Hit Enter
+##### Right Click
+- If you have not done so already, enable [Easy osx terminal window opening](https://github.com/ej020586/web-1/blob/osx_easy_terminal/osx_easy_terminal.md)
+- Go to a folder in your finder 
+	- ![Folder](https://github.com/ej020586/web-1/blob/assets/assets/sandbox-finder.jpg?raw=true) 
+- Right click on the folder and look for **Services** at the bottom. Then select the option **New Terminal Tab at Folder**
+	- ![Folder](https://github.com/ej020586/web-1/blob/assets/assets/new-terminal-tab-finder.jpg?raw=true)
 
-	**PC**
-	- Open windows explorer to the sandbox folder
-	- Right click and select "Git Bash" as shown in the image below
-    <br><img src="https://github.com/ej020586/web-1/blob/assets/assets/windows-git-bash-alt.jpg?raw=true" height="300">
+##### Direct Terminal Access
+- Press the command key and space bar
+	- You should see the spotlight search appear
+	- type in Terminal and hit enter
+- Type in `cd ` (which stands for change directory) then drag your folder into the terminal window
+- For a computer user of "test" the line would look like this
+	- `cd /Users/test/Desktop/sandbox`
+	- *You should see "test" replaced with your computer username*
+- Hit Enter
+
+#### PC (Windows)
+- Open windows explorer to the sandbox folder
+- Right click and select "Git Bash" as shown in the image below
+	<br><img src="https://github.com/ej020586/web-1/blob/assets/assets/windows-git-bash-alt.jpg?raw=true" height="300">
 
 ### Step 3 - Cloning the repo
 - Type in the following into your command line 

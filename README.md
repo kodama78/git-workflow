@@ -66,7 +66,7 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 - Start SublimeText Editor
 - Open git-workflow directory by clicking on File->Open
 	- Select the git-workflow folder under the sandbox folder on your desktop
-	![Open Image](https://github.com/Learning-Fuze/git-workflow/blob/assets/assets/open.jpg?raw=true)
+	![Open Image](https://github.com/Learning-Fuze/git-workflow/blob/e854a00065e12d4e09c5cd68924d4ae6073e0f13/assets/open.jpg?raw=true)
 
 ### Step 2 - Add basic HTML
 - Open the index.html file by clicking on the file name on the left hand side in SublimeText

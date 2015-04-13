@@ -52,20 +52,20 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 	- `git clone https://github.com/Learning-Fuze/git-workflow.git` and hit enter
 		- The **clone** command tells git to save the contents of the master branch onto your computer within the current directory.
 		- **Note**
-			- Using the command above will automatically create a directory with the same name as the Repo. In this example **web-1**
+			- Using the command above will automatically create a directory with the same name as the Repo. In this example **git-workflow**
 			- The url after the word **clone** can be found in the right hand side panel of this page under the Settings link. You can click the button to the right of the url that will automatically copy this url for you
-2. Then type `cd web-1` and hit enter
+2. Then type `cd git-workflow` and hit enter
 - Leave your console window open, we will be using it again shortly.
 
 #### Congratulations you have cloned your first Github Repository
 
 ## Editing your files
 
-### Step 1 - Opening your web-1 directory
+### Step 1 - Opening your git-workflow directory
 
 - Start SublimeText Editor
-- Open web-1 directory by clicking on File->Open
-	- Select the web-1 folder under the sandbox folder on your desktop
+- Open git-workflow directory by clicking on File->Open
+	- Select the git-workflow folder under the sandbox folder on your desktop
 	![Open Image](https://github.com/Learning-Fuze/git-workflow/blob/assets/assets/open.jpg?raw=true)
 
 ### Step 2 - Add basic HTML
@@ -76,7 +76,7 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 - Save the file by selecting File->Save
 
 ### Step 3 - View in the browser
-- Navigate to the web-1 folder
+- Navigate to the git-workflow folder
 - Right click on the index.html file and select open with Chrome
 ![Web Page](https://github.com/Learning-Fuze/git-workflow/blob/assets/assets/web-page.jpg?raw=true)
 
